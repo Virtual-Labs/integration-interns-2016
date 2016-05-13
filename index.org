@@ -39,6 +39,8 @@ Test report to be delivered by End of week.
 
 *3rd week [30th May - 3rd June]:*
 
+Each intern to take up one experiment and start converting it to Javascript. 
+
 [Plan for the rest of the weeks will totally be based on the
 performance of intern. Expectation is to complete 1 expt per week
 along with documentation related to the work done by him/her during
