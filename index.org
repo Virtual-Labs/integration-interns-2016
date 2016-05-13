@@ -35,7 +35,7 @@ Molecular Absorption Lab.
 |     3 | Log the bugs to the git lab repo.             | [[https://github.com/Virtual-Labs/molecular-absorption-spectroscopy-iiith/issues][Issue to be logged here]] |
 |-------+-----------------------------------------------+-------------------------|
 
-Test report to be deliver by End of week.
+Test report to be delivered by End of week.
 
 *3rd week [30th May - 3rd June]:*
 
