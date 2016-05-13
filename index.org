@@ -1,0 +1,69 @@
+#+Title: Integration work plan for interns
+
+
+* Task 1: Flash to Javascript conversion 
+
+*Job Description:*
+
+*Flash to Javascript conversion:* Need to get 1 full Lab (10
+experiments) converted by 2 interns by the end of their internship
+period.
+
+|--------------------------+------------+------------|
+| Lab Name                 | Github URL | Hosted URL |
+|--------------------------+------------+------------|
+| Molecular Absorption Lab | [[https://github.com/Virtual-Labs/molecular-absorption-spectroscopy-iiith][Link]]       | [[http://mas-iiith.vlabs.ac.in/][Link]]       |
+|--------------------------+------------+------------|
+
+
+*1st week [16th May - 20th May]:*
+
+  Bootcamp.
+
+*2nd week [23rd May - 27th May]:*
+
+Each intern to work on 5 different experiments of same lab i.e
+Molecular Absorption Lab.
+
+|-------+-----------------------------------------------+-------------------------|
+| Tasks | Description                                   | Links                   |
+|-------+-----------------------------------------------+-------------------------|
+|     1 | Write test cases for Molecular Absorption lab | [[https://docs.google.com/spreadsheets/d/1zNz0aJRC2Bm4UI4JJ5EhbUiFefh5V9pwoTUYgWhumBg/edit?pref=2&pli=1#gid=0][Test case template]]      |
+|-------+-----------------------------------------------+-------------------------|
+|     2 | Execution on test cases                       |                         |
+|-------+-----------------------------------------------+-------------------------|
+|     3 | Log the bugs to the git lab repo.             | [[https://github.com/Virtual-Labs/molecular-absorption-spectroscopy-iiith/issues][Issue to be logged here]] |
+|-------+-----------------------------------------------+-------------------------|
+
+Test report to be deliver by End of week.
+
+*3rd week [30th May - 3rd June]:*
+
+[Plan for the rest of the weeks will totally be based on the
+performance of intern. Expectation is to complete 1 expt per week
+along with documentation related to the work done by him/her during
+their internship.]
+
+* Backup plans
+
+** Task 2: Fixing bugs of IIIT Hyderabad labs 
+
+As QA team has already tested 15 labs, Integration team is done with
+fixing bugs of 4 labs and 3 are in progress.
+
+Remaining 8 labs can be assigned to interns. Expectation is to fix all
+the logged bugs. Also Re-testing has to be done by intern before
+moving lab to production.
+
+** Task 3: Converting lab to literate
+  
+Interns has to convert labs to literate.  [Decision has to made about
+the number/name of labs to be allocated]
+
+** Task 4: Testing IIIT Hyderabad labs
+
+Interns has to test all the IIIT Hyderabad labs. 
+
+Expectation is to write test cases, execution of test cases and log
+the bugs corresponding to git lab repo.
+
